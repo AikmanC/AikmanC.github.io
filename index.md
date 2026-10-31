@@ -19,11 +19,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](https://public.tableau.com/app/profile/aik.c4582/viz/CapstoneProject1_17809571116050/Story1))
+- [Project 2 Title](https://public.tableau.com/app/profile/aik.c4582/viz/Capstone2_2_17891524323080/Story1)
 
 ---
 
