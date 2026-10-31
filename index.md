@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Opportunities to Increase Profits and Reduce Losses](https://public.tableau.com/app/profile/aik.c4582/viz/CapstoneProject1_17809571116050/Story1)
 - [Delivery Performance Impacts](https://public.tableau.com/app/profile/aik.c4582/viz/Capstone2_2_17891524323080/Story1)
